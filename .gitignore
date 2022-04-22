@@ -1,0 +1,13 @@
+.DS_Store
+.idea
+*.log
+tmp/
+input
+
+*.py[cod]
+*.egg
+build
+htmlcov
+
+*.pdf
+*.org
